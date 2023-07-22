@@ -1,0 +1,47 @@
+.genre-btn{
+    color:white !important;
+    padding-top:10px;
+    padding-bottom: 30px;
+    padding-right:25px;
+    padding-left: 20px;
+}
+.age-btn{
+    color: white !important;;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right:25px;
+    padding-left:10px;
+}
+.sortbyoption{
+    height:30px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    
+}
+.decor{
+    height:5px;
+    width:10px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+}
+.selected-genre-btn{
+    color:black !important;
+    background-color: white !important;
+    margin:auto;
+    border-radius:20px !important;
+    padding:1px;
+    
+}
+.selected-age-btn{
+    color:black !important;
+    background-color: white !important;
+    margin:auto;
+    border-radius:20px !important;
+}
+/* @media mobile and (min-width:'480px'){
+    .head-decor{
+        flex-wrap: wrap;
+    }
+} */

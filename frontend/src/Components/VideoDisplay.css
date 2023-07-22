@@ -1,0 +1,45 @@
+.videochild{
+    color:white;
+    display: flex !important;
+    flex-direction: row !important;
+    
+}
+.child{
+    font-weight: 100;
+    font-size: smaller;
+}
+.headchild{
+    font-size: large;
+}
+.review-btn{
+    color:white !important;
+}
+.increase-btn{
+    color: white !important;
+    /* background-color: blue !important; */
+
+}
+.decrease-btn{
+    color: white !important;
+    /* background-color: blue !important; */
+
+}
+.dot{
+    width: 6px;
+    height:6px;
+    margin-right: 1rem;
+    border-radius: 50%;
+    color:#ffff !important;
+}
+.vote-container{
+    display: inline-flex;
+}
+.vote-pill{
+    color:#ffff !important;
+    border-radius: 16px;
+    margin-right: 15px;
+    padding:2px;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}

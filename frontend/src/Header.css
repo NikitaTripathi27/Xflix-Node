@@ -1,0 +1,31 @@
+.uploadbtn{
+    /* height:50px;
+    width:100px; */
+    color: white;
+    background-color: blue !important;
+    margin-right: 0;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.upload-btn-header{
+    display: flex;
+    align-self: flex-end !important;
+}
+.d-box{
+    width:100% ;
+    margin: 3px !important;
+}
+.MuiFormHelperText-root {
+    margin-left: 1px !important;
+  }
+  
+ /* .dialog-box{
+    width: 100%;
+    margin-left: 2px;
+ } */
+
